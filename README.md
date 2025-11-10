@@ -1,7 +1,7 @@
 # SOL TRADING BOT - Solana Trading Telegram Bot (Raydium, Jupiter, Pump.fun)
 
 <p align="center">
-  <img src="https://github.com/steven228312/SOL-TRADING-BOT/blob/master/src/public/SolTradingBot.PNG" alt="SolTradingBot">
+  <img src="https://github.com/imcrazysteven/SOL-TRADING-BOT/blob/master/src/public/SolTradingBot.PNG" alt="SolTradingBot">
 </p>
 
 ## Key Features
@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/steven228312/SOL-TRADING-BOT.git
+git clone https://github.com/imcrazysteven/SOL-TRADING-BOT.git
 ```
 
 2. Go to the project directory:
@@ -110,13 +110,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the [MIT License](./LICENSE)
 
-## 📞 Contact Information
+## 📞 Contact & Support
 
-- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven(steven228312)](https://github.com/steven228312)
-- Telegram: [@steven228312](https://t.me/steven228312)
-- Twitter: [@steven228312](https://twitter.com/steven228312)
-- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
 
 
 ## 🔑 Keywords
